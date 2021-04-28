@@ -5,5 +5,5 @@ Check it out in the app store: https://apps.apple.com/us/app/fibonia/id152900530
 
 #### **Demo Image :**
 <p align="center">
-  <img src="https://www.fibonia.com/phone.png" alt="Demo App Image" width="738">
+  <img src="https://www.fibonia.com/phone.png" alt="Demo App Image" width="250" height="500">
 </p>
